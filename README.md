@@ -33,3 +33,5 @@ Front-end React.
 4. `make build`
 5. `make run`
 6. `make stop` для остановки
+
+[гугл док](https://docs.google.com/spreadsheets/d/1DfW6GIH39ljIz0hcZnEYeHV0O5H_8VNLOg2DdEd3l58/edit)
