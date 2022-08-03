@@ -1,4 +1,4 @@
-# Тестовое задание на позицию test 'Backend developer (Python)'
+# Тестовое задание на позицию 'Backend developer (Python)'
 
 ## Задание
 Необходимо разработать скрипт на языке Python 3, 
